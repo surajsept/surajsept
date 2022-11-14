@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Sharma
-- 👀 I’m interested in systems medicine and mathematical modelling of biological systems
+- 👀 I’m interested in Mathematical Modelling and Systems Medicine
 - 📫 You can reach me at surajsept@gmail.com
 <!---
 - 🌱 I’m currently learning 
